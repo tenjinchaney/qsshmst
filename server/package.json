@@ -1,0 +1,14 @@
+{
+  "name": "assetflow-server",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest",
+    "dotenv": "latest"
+  }
+}
